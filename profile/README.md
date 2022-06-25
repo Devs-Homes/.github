@@ -11,4 +11,4 @@ Public Experimental Enrollment Program (PEEP). We'd love to hear what you think 
 If you think you have what it takes! We'd love to interview you and see if you're a good fit for the team. When developer applications are open, we'll let you know how you can enroll.
 
 Happy programming! 💙
-*- The Devs' Homes team`
+*- The Devs' Homes team*
